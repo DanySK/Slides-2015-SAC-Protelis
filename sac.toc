@@ -1,9 +1,0 @@
-\beamer@endinputifotherversion {3.33pt}
-\beamer@sectionintoc {2}{Aggregate Programming}{3}{0}{1}
-\beamer@subsectionintoc {2}{1}{Local to Global}{4}{0}{1}
-\beamer@subsectionintoc {2}{2}{From Proto to Field Calculus}{8}{0}{1}
-\beamer@sectionintoc {3}{Protelis}{10}{0}{2}
-\beamer@subsectionintoc {3}{1}{Language features}{11}{0}{2}
-\beamer@subsectionintoc {3}{2}{Simulator and Runtime}{15}{0}{2}
-\beamer@subsectionintoc {3}{3}{Examples}{19}{0}{2}
-\beamer@sectionintoc {4}{Conclusion and Future work}{32}{0}{3}
