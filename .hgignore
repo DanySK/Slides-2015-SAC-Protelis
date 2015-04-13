@@ -1,0 +1,12 @@
+syntax:glob
+*.aux
+*.bbl
+*.blg
+*.directory
+*.log
+*.nav
+*.out
+*.snm
+*.backup
+*.toc
+*.vrb

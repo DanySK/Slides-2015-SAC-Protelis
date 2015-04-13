@@ -1,0 +1,46 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{ZCF{\etalchar{+}}11}
+
+\bibitem[BB06]{proto}
+Jacob Beal and Jonathan Bachrach.
+\newblock Infrastructure for engineered emergence on sensor/actuator networks.
+\newblock {\em IEEE Intelligent Systems}, 21(2):10--19, 2006.
+
+\bibitem[MZ09]{mamei2009acm}
+Marco Mamei and Franco Zambonelli.
+\newblock Programming pervasive and mobile computing applications: The tota
+  approach.
+\newblock {\em ACM Trans. Softw. Eng. Methodol.}, 18(4):1--56, 2009.
+
+\bibitem[PMV13]{alchemist-jos2013}
+Danilo Pianini, Sara Montagna, and Mirko Viroli.
+\newblock Chemical-oriented simulation of computational systems with
+  {A}lchemist.
+\newblock {\em Journal of Simulation}, 2013.
+
+\bibitem[TM03]{swarmlinda}
+Robert Tolksdorf and Ronaldo Menezes.
+\newblock Using swarm intelligence in linda systems.
+\newblock In Andrea Omicini, Paolo Petta, and Jeremy Pitt, editors, {\em ESAW},
+  volume 3071 of {\em Lecture Notes in Computer Science}, pages 49--65.
+  Springer, 2003.
+
+\bibitem[VDB13]{VDB-FOCLASA-CIC2013}
+Mirko Viroli, Ferruccio Damiani, and Jacob Beal.
+\newblock A calculus of computational fields.
+\newblock In Carlos Canal and Massimo Villari, editors, {\em Advances in
+  Service-Oriented and Cloud Computing}, volume 393 of {\em Communications in
+  Computer and Information Science}, pages 114--128. Springer Berlin
+  Heidelberg, 2013.
+
+\bibitem[ZCF{\etalchar{+}}11]{sapere-procedia7}
+Franco Zambonelli, Gabriella Castelli, Laura Ferrari, Marco Mamei, Alberto
+  Rosi, Giovanna Di~Marzo, Matteo Risoldi, Akla-Esso Tchao, Simon Dobson,
+  Graeme Stevenson, Yuan Ye, Elena Nardini, Andrea Omicini, Sara Montagna,
+  Mirko Viroli, Alois Ferscha, Sascha Maschek, and Bernhard Wally.
+\newblock Self-aware pervasive service ecosystems.
+\newblock {\em Procedia Computer Science}, 7:197--199, December 2011.
+\newblock Proceedings of the 2nd European Future Technologies Conference and
+  Exhibition 2011 (FET 11).
+
+\end{thebibliography}
